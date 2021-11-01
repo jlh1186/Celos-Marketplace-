@@ -22,7 +22,8 @@ li {
 body {
     background-image: url(../images/Red\ Car\ Simple.png);
     background-repeat: no-repeat;
-}
+    background-attachment: fixed;
+    background-size: cover;}
 
 .header {
     width: 100%;
